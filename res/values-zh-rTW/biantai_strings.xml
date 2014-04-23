@@ -55,15 +55,15 @@
     <string name="call_stats_nav_missed">未接聽</string>
     <string name="call_stats_incoming">來電: <xliff:g id="percent">%d</xliff:g>%%</string>
     <string name="call_stats_outgoing">去電: <xliff:g id="percent">%d</xliff:g>%%</string>
-    <string name="call_stats_missed">未接</string>
-    <string name="call_stats_missed_percent">未接: <xliff:g id="percent">%d</xliff:g>%%</string>
+    <string name="call_stats_missed">未接聽</string>
+    <string name="call_stats_missed_percent">未接聽: <xliff:g id="percent">%d</xliff:g>%%</string>
     <string name="call_stats_header_total">全部: <xliff:g id="call_count">%s</xliff:g>, <xliff:g id="duration">%s</xliff:g></string>
     <string name="call_stats_header_total_callsonly">全部: <xliff:g id="call_count">%s</xliff:g></string>
     <string name="call_stats_filter_from">起始日期</string>
     <string name="call_stats_filter_to">截止日期</string>
     <string name="call_stats_filter_picker_title">過濾範圍</string>
 
-    <string name="date_quick_selection">快速選擇</string>
+    <string name="date_quick_selection">快速選取</string>
     <string name="date_qs_currentmonth">本月</string>
     <string name="date_qs_currentquarter">本季度</string>
     <string name="date_qs_currentyear">本年度</string>
@@ -76,5 +76,19 @@
     <string name="call_stats_reset_filter">重置時間範圍</string>
     <string name="call_stats_sort_by_duration">以通訊時間排序</string>
     <string name="call_stats_sort_by_count">以通訊數量排序</string>
+
+    <!-- Speed dial -->
+    <!-- 快速拨号 -->
+    <string name="speeddial_title">快捷撥號</string>
+    <string name="speeddial_dialog_title">配置快捷撥號</string>
+    <string name="alert_add_speeddial_title">您尚未分配快捷撥號給%s. 您希望立刻分配嗎？</string>
+    <string name="dont_remind_me_title">不再顯示此提醒</string>
+    <string name="speeddial_added">現在您可以長按%4$s撥打%1$s的%2$s號碼%3$s.</string>
+    <string name="speeddial_undefined_title">未分配</string>
+    <string name="speeddial_undefined_summary">長按以分配</string>
+
+    <string name="speeddial_reset_title">重置</string>
+    <string name="speeddial_reset_message">刪除所有用戶的快捷撥號并恢復至默認？</string>
+    <string name="speeddial_reset_toast">快捷撥號已恢復至默認</string>
 
 </resources>
