@@ -77,4 +77,18 @@
     <string name="call_stats_sort_by_duration">以通话时间排序</string>
     <string name="call_stats_sort_by_count">以通话数量排序</string>
 
+    <!-- Speed dial -->
+    <!-- 快速拨号 -->
+    <string name="speeddial_title">快速拨号</string>
+    <string name="speeddial_dialog_title">配置快速拨号</string>
+    <string name="alert_add_speeddial_title">您还未分配快速拨号给%s. 您希望现在就分配么?</string>
+    <string name="dont_remind_me_title">不再显示此提醒</string>
+    <string name="speeddial_added">现在您可以长按%4$s拨打%1$s的%2$s号码%3$s.</string>
+    <string name="speeddial_undefined_title">未分配</string>
+    <string name="speeddial_undefined_summary">长按以分配</string>
+
+    <string name="speeddial_reset_title">重置</string>
+    <string name="speeddial_reset_message">删除所有用户的快速拨号并恢复至默认?</string>
+    <string name="speeddial_reset_toast">快速拨号已恢复至默认</string>
+
 </resources>
